@@ -1,0 +1,6 @@
+bin/
+lib/
+__pycache__/
+creds.py
+pyvenv.cfg
+media/
