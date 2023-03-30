@@ -1,3 +1,3 @@
-# Canal de YouTube automatizado
+# Videos de reddit automatizados
 
 EN DESARROLLO
