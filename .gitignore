@@ -4,3 +4,5 @@ __pycache__/
 creds.py
 pyvenv.cfg
 media/
+assets/
+reddit-videos/test.py
